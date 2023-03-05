@@ -1,0 +1,195 @@
+local HWID = nil
+local HWIDPlr = game:GetService("RbxAnalyticsService"):GetClientId()
+local key = _G.Key
+local check = "https://skylyhubwhitelist.000webhostapp.com/check.php?key=" .. key
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "1C973ADB-8DF9-421C-9C84-819A23D7608A"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "HWID2"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "HWID3"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "HWID4"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "HWID5"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "1C973ADB-8DF9-421C-9C84-819A23D7608A"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "1C973ADB-8DF9-421C-9C84-819A23D7608A"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "1C973ADB-8DF9-421C-9C84-819A23D7608A"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "1C973ADB-8DF9-421C-9C84-819A23D7608A"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
+if game:HttpGet(check) == "Whitelisted" then
+	print("pass")
+	HWID = "1C973ADB-8DF9-421C-9C84-819A23D7608A"
+		else
+			print("incorract")
+end
+
+if game:HttpGet(check) == "Not Whitelisted" then
+	game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+end
+
+
+if HWID == HWIDPlr then
+	print("pass2")
+	print("-----------------------")
+	else
+		game.Players.LocalPlayer:Kick("ไม่มีWhitelistทักดิสKomi Shouko#9006มาเดะเพิ่มให้")
+end
+--------------------------------------------------------------------------------------------------------
