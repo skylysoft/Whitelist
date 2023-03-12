@@ -7,21 +7,25 @@ local ScriptIsRunning = false
 --------------------------------------------------------------------------------------------------------
 function Whitelist1()
 	if game:HttpGet(check) == "Whitelisted" then
-	print("pass")
+	print("Key1Pass1")
 	HWID = "1C973ADB-8DF9-421C-9C84-819A23D7608A"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
-		print("pass2")
+		print("Key1Pass2")
 		
 		KeyAndHWID = true
 	else
 		print("incorract2")
 	end
 end
-Whitelist1()
+
+
+if _G.Key == "KEL1-SJF7-S2JS-L4S5" then
+	Whitelist1()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -36,10 +40,10 @@ end
 --------------------------------------------------------------------------------------------------------
 function Whitelist2()
 	if game:HttpGet(check) == "Whitelisted" then
-	print("pass")
+	print("Key2Pass1")
 	HWID = "HWID2"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -50,7 +54,10 @@ function Whitelist2()
 		print("incorract2")
 	end
 end
-Whitelist2()
+
+if _G.Key == "SJ2W-WUJ9-JD8S-JF2F" then
+	Whitelist2()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -65,10 +72,10 @@ end
 --------------------------------------------------------------------------------------------------------
 function Whitelist3()
 	if game:HttpGet(check) == "Whitelisted" then
-	print("pass")
+	print("Key3Pass1")
 	HWID = "HWID3"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -79,7 +86,10 @@ function Whitelist3()
 		print("incorract2")
 	end
 end
-Whitelist3()
+
+if _G.Key == "FH82-JO5P-LA85-KD92" then
+	Whitelist3()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -97,7 +107,7 @@ function Whitelist4()
 	print("pass")
 	HWID = "HWID4"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -108,7 +118,10 @@ function Whitelist4()
 		print("incorract2")
 	end
 end
-Whitelist4()
+
+if _G.Key == "KE42-TJ5C-87KB-J54K" then
+	Whitelist4()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -126,7 +139,7 @@ function Whitelist5()
 	print("pass")
 	HWID = "HWID5"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -137,7 +150,10 @@ function Whitelist5()
 		print("incorract2")
 	end
 end
-Whitelist5()
+
+if _G.Key == "N6K4-BE78-94K6-R4AS" then
+	Whitelist5()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -155,7 +171,7 @@ function Whitelist6()
 	print("pass")
 	HWID = "HWID6"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -166,7 +182,10 @@ function Whitelist6()
 		print("incorract2")
 	end
 end
-Whitelist6()
+
+if _G.Key == "86K9-4K7Y-JS86-FSAR" then
+	Whitelist6()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -184,7 +203,7 @@ function Whitelist7()
 	print("pass")
 	HWID = "HWID2"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -195,7 +214,10 @@ function Whitelist7()
 		print("incorract2")
 	end
 end
-Whitelist7()
+
+if _G.Key == "KS78-4J52-KAS6-LK86" then
+	Whitelist7()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -213,7 +235,7 @@ function Whitelist8()
 	print("pass")
 	HWID = "HWID3"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -224,7 +246,10 @@ function Whitelist8()
 		print("incorract2")
 	end
 end
-Whitelist8()
+
+if _G.Key == "DA87-K52F-HGF5-AE89" then
+	Whitelist8()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -242,7 +267,7 @@ function Whitelist9()
 	print("pass")
 	HWID = "HWID4"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -253,7 +278,10 @@ function Whitelist9()
 		print("incorract2")
 	end
 end
-Whitelist9()
+
+if _G.Key == "57KS-JDS4-KAI4-859F" then
+	Whitelist9()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -271,7 +299,7 @@ function Whitelist10()
 	print("pass")
 	HWID = "HWID5"
 		else
-			game.Players.LocalPlayer:Kick("Invalid Key! Please Buy Script By Komi Shouko#9006.")
+			print("incorract1")
 	end
 
 	if HWID == HWIDPlr then
@@ -282,7 +310,10 @@ function Whitelist10()
 		print("incorract2")
 	end
 end
-Whitelist10()
+
+if _G.Key == "8JSD-SSKR-758P-545A" then
+	Whitelist10()
+end
 
 if KeyAndHWID == true then
 	print("pass3")
@@ -294,3 +325,4 @@ if ScriptIsRunning == true then
 	print("-----------------------")
 	return
 end
+
